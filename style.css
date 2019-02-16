@@ -1,0 +1,39 @@
+body {
+    background: url(Images/white-waves.png);
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff !important;
+    font-size: 200%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22pt;
+}
+
+#msg {
+    height: 150px;
+}
+
+.footer {
+    background: #666666;
+    border-top: solid 3px #4aaaa5;
+    position: fixed;
+    height: 40px;
+    bottom: 0;
+    width: 100%; 
+}
+
+.centered {
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    text-align: center;
+}
