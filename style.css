@@ -16,7 +16,7 @@ h1 {
 }
 
 #msg {
-    height: 150px;
+    height: 125px;
 }
 
 .footer {
@@ -26,11 +26,12 @@ h1 {
     height: 40px;
     bottom: 0;
     width: 100%; 
+    margin-top: 2px;
 }
 
 .centered {
     position: absolute;
-    top: 85%;
+    top: 80%;
     left: 45%;
     transform: translate(-50%, -50%);
     background: #4aaaa5;
