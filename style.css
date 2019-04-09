@@ -16,14 +16,18 @@ h1 {
 }
 
 #msg {
-    height: 125px;
+    height: 165px;
+}
+
+#name, #email, #msg {
+    width: 120%;
 }
 
 .footer {
     background: #666666;
     border-top: solid 3px #4aaaa5;
     position: fixed;
-    height: 40px;
+    height: 50px;
     bottom: 0;
     width: 100%; 
     margin-top: 2px;
@@ -37,4 +41,9 @@ h1 {
     background: #4aaaa5;
     color: white;
     text-align: center;
+}
+
+.img-fluid {
+    width: 200px;
+    height: 140px;
 }
